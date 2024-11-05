@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragracing-Simple", "Dragracing-Simple\Dragracing-Simple.csproj", "{3F914171-845D-458D-947A-58E7A6EC6EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F914171-845D-458D-947A-58E7A6EC6EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F914171-845D-458D-947A-58E7A6EC6EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F914171-845D-458D-947A-58E7A6EC6EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F914171-845D-458D-947A-58E7A6EC6EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EE2463-68A9-481D-824A-DF702C68F478}
+	EndGlobalSection
+EndGlobal
